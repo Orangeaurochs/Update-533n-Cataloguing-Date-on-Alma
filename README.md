@@ -7,8 +7,8 @@ You can use this bookmarklet to avoid having to either change a template every d
 
 To use the bookmarklet:
 
-*Click on the 533 field in a record
-*Click on the bookmarklet on the your bookmarks toolbar
+* Click on the 533 field in a record
+* Click on the bookmarklet on the your bookmarks toolbar
 
 To work, it requires a 533$$n starting with the text "Description based on contents viewed" with a full-stop at the end. It produces a date in the format 18 August 2020.
 
